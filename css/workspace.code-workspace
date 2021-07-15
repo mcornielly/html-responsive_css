@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\html-maqutacion_css"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-responsive_css"
+	}
+}
